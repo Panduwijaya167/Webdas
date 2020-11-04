@@ -1,0 +1,35 @@
+.wrap{
+            width: 1000px;
+            margin: 6px auto;
+        }
+    
+    /*bagian header*/
+        .wrap .header{ */
+            height: 70px;*/
+            padding: 1px 5px;
+        }
+
+        
+    /*bagian sidebar*/
+        .wrap .sidebar{
+        
+            float: left;	
+            width: 25%;
+            height: 70%;
+        }
+    
+ 
+    /*bagian content*/
+
+        .wrap .content{
+            /* background: black; */
+            float: left;
+            height: 400px;
+            width: 75%;	
+        }
+    
+        .wrap .footer{
+            width: 100%;
+            padding: 10px;
+            align-content: center;
+        }
