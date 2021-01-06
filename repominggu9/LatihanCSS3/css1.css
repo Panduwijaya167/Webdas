@@ -1,0 +1,83 @@
+body{
+    background: #35A9DB;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+.ketengah {
+    margin: 10px auto;
+    width: 1150px;
+}
+.kotak {
+    background: #fcfcfc;
+    padding: 20px;
+    width: 200px;
+    float: left;
+    margin: 20px;
+    height: 200px;
+}
+.kotak1 {
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px 10px 10px 10px;
+}
+.kotak2 {
+    border-radius: 40px 20px 60px 90px;
+    -webkit-border-radius: 40px 20px 60px 90px;
+    -moz-border-radius: 40px 20px 60px 90px;
+    -ms-border-radius: 40px 20px 60px 90px;
+    -o-border-radius: 40px 20px 60px 90px;
+}
+.kotak3 {
+    border-radius: 2px 140px 20px 60px;
+    -webkit-border-radius: 2px 140px 20px 60px;
+    -moz-border-radius: 2px 140px 20px 60px;
+    -ms-border-radius: 2px 140px 20px 60px;
+    -o-border-radius: 2px 140px 20px 60px;
+}
+.kotak3 {
+    border-radius: 20px 10px 80px 10px;
+    -webkit-border-radius: 20px 10px 80px 10px;
+    -moz-border-radius: 20px 10px 80px 10px;
+    -ms-border-radius: 20px 10px 80px 10px;
+    -o-border-radius: 20px 10px 80px 10px;
+}
+.kotak4 {
+    border-radius: 0px 50px 0px 50px;
+    -webkit-border-radius: 0px 50px 0px 50px;
+    -moz-border-radius: 0px 50px 0px 50px;
+    -ms-border-radius: 0px 50px 0px 50px;
+    -o-border-radius: 0px 50px 0px 50px;
+}
+.kotak5 {
+    border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -ms-border-radius: 0px 0px 0px 0px;
+    -o-border-radius: 0px 0px 0px 0px;
+}
+.kotak6 {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+.kotak7 {
+    border-radius: 40px 10px;
+    -webkit-border-radius: 40px 10px;
+    -moz-border-radius: 40px 10px;
+    -ms-border-radius: 40px 10px;
+    -o-border-radius: 40px 10px;
+}
+.kotak8 {
+    border-radius: 10p x 10px 50% 50%;
+    -webkit-border-radius: 10p x 10px 50% 50%;
+    -moz-border-radius: 10p x 10px 50% 50%;
+    -ms-border-radius: 10p x 10px 50% 50%;
+    -o-border-radius: 10p x 10px 50% 50%;
+}
